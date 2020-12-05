@@ -21,7 +21,7 @@
                     &kp LGUI  &kp LALT  &mo 1  &kp SCLN  &kp LCTL    &kp SPC    &kp RCTL  &mo 2     &kp DARW  &kp UARW
             >;
 
-            sensor-bindings = <&inc_dec_kp RARW LARW &inc_dec_kp UARW PGDN>;
+            sensor-bindings = <&inc_dec_kp LARW RAWR &inc_dec_kp UARW PGDN>;
         };
 
         lower_layer {
